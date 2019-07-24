@@ -47,7 +47,7 @@ for i in range(1, 625):
     all_players = all_players.append(player, ignore_index=True)
 
 # --- save dataframe as csv
-all_players.to_csv(r'/home/rich/fpl/data/csv/allplayers.csv')
+all_players.to_csv(r'/home/rich/github/fpl/data/csv/allplayers.csv')
 print(all_players.shape)
 
 # --- Stop timer
