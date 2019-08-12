@@ -1,625 +1,625 @@
-team,element_type,first_name,second_name
-0,0,Petr,Cech
-0,0,Bernd,Leno
-0,1,Laurent,Koscielny
-0,1,Hector,Bellerin
-0,1,Nacho,Monreal
-0,1,Rob,Holding
-0,1,Shkodran,Mustafi
-0,1,Sead,Kolasinac
-8,1,Calum,Chambers
-0,1,Konstantinos,Mavropanos
-0,1,Stephan,Lichtsteiner
-0,1,Sokratis,Papastathopoulos
-0,2,Mesut,Ozil
-0,2,Aaron,Ramsey
-0,2,Alex,Iwobi
-0,2,Mohamed,Elneny
-0,2,Granit,Xhaka
-0,2,Henrikh,Mkhitaryan
-0,2,Reiss,Nelson
-0,2,Ainsley,Maitland-Niles
-0,3,Danny,Welbeck
-0,3,Alexandre,Lacazette
-0,3,Pierre-Emerick,Aubameyang
-1,0,Asmir,Begovic
-1,0,Artur,Boruc
-1,1,Simon,Francis
-1,1,Steve,Cook
-1,1,Charlie,Daniels
-1,1,Adam,Smith
-1,1,Tyrone,Mings
-1,1,Nathan,Ake
-1,1,Jack,Simpson
-4,2,Harry,Arter
-1,2,Marc,Pugh
-1,2,Andrew,Surman
-1,2,Junior,Stanislas
-1,2,Dan,Gosling
-1,2,Jordon,Ibe
-1,2,Lewis,Cook
-1,2,Ryan,Fraser
-1,2,Emerson,Hyndman
-1,2,David,Brooks
-1,3,Callum,Wilson
-1,3,Lys,Mousset
-1,3,Joshua,King
-1,3,Jermain,Defoe
-2,0,Mathew,Ryan
-2,1,Lewis,Dunk
-2,1,Shane,Duffy
-2,1,Bruno,Saltor Grau
-2,1,Gaetan,Bong
-2,1,Markus,Suttner
-2,1,Ezequiel,Schelotto
-2,1,Leon,Balogun
-2,2,Anthony,Knockaert
-2,2,Dale,Stephens
-2,2,Beram,Kayal
-2,2,Solomon,March
-2,2,Pascal,Gro
-2,2,Davy,Propper
-2,2,Jose Heriberto,Izquierdo Mena
-2,3,Glenn,Murray
-2,3,Tomer,Hemed
-2,3,Sam,Baldock
-2,3,Jurgen,Locadia
-2,3,Florin,Andone
-3,0,Tom,Heaton
-3,0,Nick,Pope
-3,1,Matthew,Lowton
-3,1,Ben,Mee
-3,1,Stephen,Ward
-3,1,James,Tarkowski
-3,1,Kevin,Long
-3,1,Charlie,Taylor
-3,1,Phil,Bardsley
-3,2,Johann Berg,Gudmundsson
-3,2,Steven,Defour
-3,2,Jeff,Hendrick
-3,2,Robbie,Brady
-3,2,Ashley,Westwood
-3,2,Jonathan,Walters
-3,2,Jack,Cork
-3,2,Aaron,Lennon
-3,3,Sam,Vokes
-3,3,Ashley,Barnes
-3,3,Nahki,Wells
-3,3,Chris,Wood
-4,0,Neil,Etheridge
-4,0,Alex,Smithies
-4,1,Sean,Morrison
-4,1,Sol,Bamba
-4,1,Bruno,Ecuele Manga
-4,1,Matthew,Connolly
-4,1,Joe,Bennett
-4,1,Lee,Peltier
-4,1,Ashley Darel Jazz,Richards
-4,1,Greg,Halford
-4,2,Joe,Ralls
-4,2,David Junior,Hoilett
-4,2,Nathaniel,Mendez-Laing
-4,2,Callum,Paterson
-4,2,Aron,Gunnarsson
-4,2,Anthony,Pilkington
-4,2,Loic,Damour
-4,2,Danny,Ward
-4,2,Josh,Murphy
-4,3,Kenneth,Zohore
-4,3,Omar,Bogle
-4,3,Gary,Madine
-4,3,Bobby,Reid
-5,0,Thibaut,Courtois
-5,0,Willy,Caballero
-5,1,Cesar,Azpilicueta
-5,1,Gary,Cahill
-5,1,Marcos,Alonso
-5,1,David,Luiz Moreira Marinho
-5,1,Victor,Moses
-5,1,Antonio,Rudiger
-5,1,Andreas,Christensen
-5,1,Davide,Zappacosta
-5,1,Emerson,Palmieri dos Santos
-5,2,Eden,Hazard
-5,2,Cesc,Fabregas
-5,2,Willian,Borges Da Silva
-5,2,Pedro,Rodriguez Ledesma
-5,2,N'Golo,Kante
-5,2,Ross,Barkley
-5,2,Daniel,Drinkwater
-5,2,Tiemoue,Bakayoko
-5,2,Ethan,Ampadu
-5,2,Callum,Hudson-Odoi
-5,2,Ruben,Loftus-Cheek
-5,3,Olivier,Giroud
-5,3,Alvaro,Morata
-6,0,Wayne,Hennessey
-6,0,Julian,Speroni
-6,0,Vicente,Guaita
-6,1,James,Tomkins
-6,1,Scott,Dann
-6,1,Martin,Kelly
-6,1,Jeffrey,Schlupp
-6,1,Patrick,van Aanholt
-6,1,Mamadou,Sakho
-6,1,Jairo,Riedewald
-6,1,Aaron,Wan-Bissaka
-9,2,Jason,Puncheon
-6,2,James,McArthur
-6,2,Bakary,Sako
-6,2,Andros,Townsend
-6,2,Luka,Milivojevic
-6,3,Wilfried,Zaha
-6,3,Christian,Benteke
-6,3,Alexander,Srloth
-7,0,Jordan,Pickford
-7,0,Maarten,Stekelenburg
-7,1,Leighton,Baines
-7,1,Seamus,Coleman
-7,1,Phil,Jagielka
-7,1,Ashley,Williams
-7,1,Mason,Holgate
-7,1,Jonjoe,Kenny
-7,1,Michael,Keane
-7,1,Cuco,Martina
-7,2,Theo,Walcott
-7,2,Yannick,Bolasie
-7,2,James,McCarthy
-7,2,Morgan,Schneiderlin
-7,2,Idrissa,Gueye
-7,2,Tom,Davies
-7,2,Ademola,Lookman
-7,2,Davy,Klaassen
-7,2,Gylfi,Sigurdsson
-7,2,Nikola,Vlasic
-7,2,Beni,Baningime
-7,3,Dominic,Calvert-Lewin
-4,3,Oumar,Niasse
-7,3,Cenk,Tosun
-8,0,Marcus,Bettinelli
-2,0,David,Button
-8,1,Tim,Ream
-8,1,Denis,Odoi
-8,2,Tom,Cairney
-8,2,Kevin,McDonald
-8,2,Ryan,Sessegnon
-8,2,Stefan,Johansen
-8,2,Floyd,Ayite
-8,2,Neeskens,Kebano
-8,2,Rui Pedro,da Rocha Fonte
-8,3,Aboubakar,Kamara
-9,0,Ben,Hamer
-9,0,Jonas,Lossl
-9,1,Christopher,Schindler
-9,1,Chris,Lowe
-9,1,Tommy,Smith
-9,1,Mathias,Jorgensen
-9,1,Scott,Malone
-9,1,Florent,Hadergjonaj
-9,1,Terence,Kongolo
-9,2,Aaron,Mooy
-9,2,Rajiv,van La Parra
-9,2,Jonathan,Hogg
-9,2,Philip,Billing
-9,2,Tom,Ince
-9,2,Danny,Williams
-9,2,Abdelhamid,Sabiri
-9,2,Alex,Pritchard
-9,2,Ramadan,Sobhi
-9,2,Juninho,Bacuna
-9,3,Collin,Quaner
-9,3,Laurent,Depoitre
-9,3,Steve,Mounie
-9,3,Elias,Kachunga
-10,0,Kasper,Schmeichel
-10,0,Eldin,Jakupovic
-10,1,Wes,Morgan
-10,1,Christian,Fuchs
-10,1,Danny,Simpson
-10,1,Yohan,Benalouane
-10,1,Benjamin,Chilwell
-10,1,Harry,Maguire
-10,1,Ricardo Domingos,Barbosa Pereira
-10,1,Jonny,Evans
-12,2,Riyad,Mahrez
-10,2,Marc,Albrighton
-10,2,Demarai,Gray
-10,2,Daniel,Amartey
-10,2,Wilfred,Ndidi
-10,2,Vicente,Iborra
-10,2,Matty,James
-10,2,Hamza,Choudhury
-10,2,Adrien Sebastian,Perruchet Silva
-10,2,Fousseni,Diabate
-10,2,James,Maddison
-10,3,Jamie,Vardy
-10,3,Shinji,Okazaki
-10,3,Kelechi,Iheanacho
-11,0,Simon,Mignolet
-11,0,Loris,Karius
-11,1,Dejan,Lovren
-11,1,Alberto,Moreno
-1,1,Nathaniel,Clyne
-11,1,Joseph,Gomez
-11,1,Joel,Matip
-11,1,Ragnar,Klavan
-11,1,Trent,Alexander-Arnold
-11,1,Virgil,van Dijk
-11,1,Andrew,Robertson
-11,2,Alex,Oxlade-Chamberlain
-11,2,Jordan,Henderson
-11,2,Adam,Lallana
-11,2,Sadio,Mane
-11,2,Georginio,Wijnaldum
-11,2,Mohamed,Salah
-11,2,James,Milner
-11,2,Fabio Henrique,Tavares
-11,2,Naby,Keita
-11,3,Roberto,Firmino
-15,3,Danny,Ings
-1,3,Dominic,Solanke
-12,0,Ederson,Santana de Moraes
-12,0,Claudio,Bravo
-12,1,John,Stones
-12,1,Vincent,Kompany
-12,1,Nicolas,Otamendi
-12,1,Kyle,Walker
-12,1,Danilo Luiz,da Silva
-12,1,Benjamin,Mendy
-12,1,Aymeric,Laporte
-12,1,Fabian,Delph
-12,2,Raheem,Sterling
-12,2,David,Silva
-12,2,Fernando,Luiz Rosa
-12,2,Kevin,De Bruyne
-12,2,Ilkay,Gundogan
-12,2,Leroy,Sane
-12,2,Bernardo Mota,Veiga de Carvalho e Silva
-12,2,Phil,Foden
-12,2,Brahim,Diaz
-12,2,Oleksandr,Zinchenko
-12,3,Sergio,Aguero
-12,3,Gabriel Fernando,de Jesus
-13,0,David,de Gea
-13,0,Sergio,Romero
-13,1,Chris,Smalling
-13,1,Phil,Jones
-13,1,Luke,Shaw
-13,1,Marcos,Rojo
-13,1,Antonio,Valencia
-13,1,Matteo,Darmian
-13,1,Daley,Blind
-13,1,Eric,Bailly
-13,1,Victor,Lindelof
-13,1,Ashley,Young
-13,1,Jose Diogo,Dalot Teixeira
-13,2,Alexis,Sanchez
-13,2,Nemanja,Matic
-13,2,Juan,Mata
-13,2,Marouane,Fellaini
-13,2,Ander,Herrera
-13,2,Jesse,Lingard
-13,2,Anthony,Martial
-13,2,Paul,Pogba
-13,2,Scott,McTominay
-13,2,Frederico,Rodrigues de Paula Santos
-13,3,Marcus,Rashford
-13,3,Romelu,Lukaku
-14,0,Robert,Elliot
-14,0,Karl,Darlow
-14,0,Martin,Dubravka
-14,1,DeAndre,Yedlin
-14,1,Ciaran,Clark
-14,1,Jamaal,Lascelles
-14,1,Paul,Dummett
-14,1,Florian,Lejeune
-14,1,Javier,Manquillo
-14,1,Chancel,Mbemba
-14,2,Matt,Ritchie
-14,2,Jonjo,Shelvey
-14,2,Mohamed,Diame
-14,2,Christian,Atsu
-14,2,Jacob,Murphy
-14,2,Mikel,Merino
-14,2,Isaac,Hayden
-14,2,Sung-yueng,Ki
-14,3,Dwight,Gayle
-14,3,Ayoze,Perez
-14,3,Jose Luis,Mato Sanmartin
-15,0,Alex,McCarthy
-15,0,Fraser,Forster
-15,1,Ryan,Bertrand
-15,1,Maya,Yoshida
-15,1,Cedric,Soares
-15,1,Jack,Stephens
-15,1,Sam,McQueen
-15,1,Jan,Bednarek
-15,1,Wesley,Hoedt
-15,2,Steven,Davis
-15,2,James,Ward-Prowse
-15,2,Oriol,Romeu Vidal
-15,2,Pierre-Emile,Hjbjerg
-15,2,Sofiane,Boufal
-15,2,Joshua,Sims
-15,2,Nathan,Redmond
-15,2,Mario,Lemina
-15,2,Stuart,Armstrong
-15,2,Mohamed,Elyounoussi
-15,3,Shane,Long
-15,3,Charlie,Austin
-15,3,Manolo,Gabbiadini
-15,3,Guido,Carrillo
-16,0,Hugo,Lloris
-16,0,Michel,Vorm
-16,1,Toby,Alderweireld
-16,1,Danny,Rose
-16,1,Jan,Vertonghen
-16,1,Ben,Davies
-16,1,Kieran,Trippier
-16,1,Kyle,Walker-Peters
-16,1,Davinson,Sanchez
-16,1,Serge,Aurier
-16,2,Eric,Dier
-16,2,Mousa,Dembele
-16,2,Erik,Lamela
-16,2,Christian,Eriksen
-16,2,Bamidele,Alli
-16,2,Victor,Wanyama
-16,2,Heung-Min,Son
-16,2,Harry,Winks
-16,2,Moussa,Sissoko
-16,2,Lucas,Rodrigues Moura da Silva
-16,3,Fernando,Llorente
-16,3,Harry,Kane
-17,0,Heurelho,Gomes
-17,0,Pontus,Dahlberg
-17,1,Younes,Kaboul
-17,1,Craig,Cathcart
-17,1,Sebastian,Prodl
-17,1,Jose,Holebas
-17,1,Miguel,Britos
-17,1,Christian,Kabasele
-17,1,Daryl,Janmaat
-17,1,Adrian,Mariappa
-17,1,Francisco,Femenia Far
-17,1,Marvin,Zeegelaar
-17,1,Marc,Navarro
-17,1,Adam,Masina
-17,2,Nathaniel,Chalobah
-17,2,Tom,Cleverley
-17,2,Etienne,Capoue
-17,2,Abdoulaye,Doucoure
-17,2,Roberto,Pereyra
-17,2,Will,Hughes
-7,2,Richarlison,de Andrade
-17,2,Gerard,Deulofeu
-17,3,Andre,Gray
-17,3,Troy,Deeney
-17,3,Stefano,Okaka
-17,3,Jerome,Sinclair
-18,0,Adrian,San Miguel del Castillo
-18,0,Lukasz,Fabianski
-18,1,Winston,Reid
-18,1,Aaron,Cresswell
-18,1,Angelo,Ogbonna
-18,1,Sam,Byram
-18,1,Pablo,Zabaleta
-18,1,Declan,Rice
-18,1,Reece,Oxford
-18,1,Ryan,Fredericks
-18,1,Issa,Diop
-18,2,Arthur,Masuaku
-18,2,Mark,Noble
-6,2,Cheikhou,Kouyate
-18,2,Pedro,Obiang
-18,2,Manuel,Lanzini
-18,2,Michail,Antonio
-18,2,Edimilson,Fernandes
-18,3,Marko,Arnautovic
-18,3,Andy,Carroll
-18,3,Javier,Hernandez Balcazar
-18,3,Jordan,Hugill
-19,0,John,Ruddy
-19,0,Will,Norris
-19,1,Willy,Boly
-19,1,Barry,Douglas
-19,1,Matt,Doherty
-19,1,Romain,Saiss
-19,1,Ryan,Bennett
-19,1,Danny,Batth
-19,1,Roderick Jefferson,Goncalves Miranda
-19,1,Conor,Coady
-19,1,Ruben Goncalo,Silva Nascimento Vinagre
-19,2,Diogo,Jota
-19,2,Ruben Diogo,da Silva Neves
-19,2,Ivan,Cavaleiro
-19,2,Helder,Costa
-19,2,Bright,Enobakhare
-19,3,Raul,Jimenez
-19,3,Bonatini Lohner Maia,Bonatini
-2,0,Jason,Steele
-2,1,Bernardo,Fernandes da Silva Junior
-6,1,Joel,Ward
-6,1,Jaroslaw,Jach
-6,1,Pape,Souare
-6,3,Connor,Wickham
-17,0,Ben,Foster
-17,2,Ken,Sema
-18,2,Jack,Wilshere
-19,2,Morgan,Gibbs-White
-19,3,Rafa,Mir
-0,2,Lucas,Torreira
-0,2,Matteo,Guendouzi
-15,0,Angus,Gunn
-18,2,Andriy,Yarmolenko
-19,0,Rui Pedro,dos Santos Patricio
-8,1,Maxime,Le Marchand
-8,2,Jean Michael,Seri
-10,0,Danny,Ward
-14,2,Robert Kenedy,Nunes do Nascimento
-5,2,Jorge Luiz,Frello Filho
-8,1,Cyrus,Christie
-9,1,Erik,Durm
-11,2,Xherdan,Shaqiri
-15,1,Jannik,Vestergaard
-18,1,Fabian,Balbuena
-18,2,Felipe Anderson,Pereira Gomes
-2,2,Yves,Bissouma
-4,1,Greg,Cunninghamm
-11,0,Alisson,Ramses Becker
-7,2,Kevin,Mirallas
-7,3,Sandro,Ramirez
-9,2,Adama,Diakhaby
-11,3,Daniel,Sturridge
-1,1,Diego,Rico
-8,0,Fabricio,Agosto Ramirez
-19,2,Joao Filipe Iria,Santos Moutinho
-2,2,Alireza,Jahanbakhsh
-6,2,Sullay,Kaikai
-8,2,Andre,Schurrle
-15,1,Matt,Targett
-8,3,Aleksandar,Mitrovic
-13,2,Andreas,Pereira
-14,1,Fabian,Schar
-19,1,Jonathan,Castro Otto
-7,1,Lucas,Digne
-3,0,Anders,Lindegaard
-6,2,Max,Meyer
-8,1,Alfie,Mawson
-14,3,Yoshinori,Muto
-18,2,Robert,Snodgrass
-3,0,Joe,Hart
-3,1,Ben,Gibson
-10,2,Rachid,Ghezzal
-14,3,Salomon,Rondon
-1,2,Jefferson,Lerma
-3,3,Matej,Vydra
-5,3,Tammy,Abraham
-16,2,Georges-Kevin,Nkoudou
-5,0,Kepa,Arrizabalaga
-5,2,Mateo,Kovacic
-19,2,Adama,Traore
-10,1,Filip,Benkovic
-18,3,Lucas,Perez
-2,1,Martin,Montoya
-4,2,Victor,Camarasa
-6,3,Jordan,Ayew
-7,1,Yerry,Mina
-7,2,Bernard,Anicio Caldeira Duarte
-7,2,Andre Filipe,Tavares Gomes
-8,0,Sergio,Rico
-8,1,Joe,Bryan
-8,1,Timothy,Fosu-Mensah
-8,2,Andre-Frank,Zambo Anguissa
-8,3,Luciano,Vietto
-9,2,Isaac,Mbenza
-10,1,Caglar,Soyuncu
-14,1,Federico,Fernandez
-17,2,Domingos,Quina
-18,2,Carlos,Sanchez
-19,2,Leander,Dendoncker
-13,0,Lee,Grant
-8,2,Ibrahima,Cisse
-9,1,Jon Gorenc,Stankovic
-16,2,Luke,Amos
-17,3,Isaac,Success Ajayi
-19,1,Kortney,Hause
-7,1,Kurt,Zouma
-10,2,Nampalys,Mendy
-7,2,Kieran,Dowell
-12,0,Arijanet,Muric
-14,1,Jamie,Sterry
-14,2,Sean,Longstaff
-7,1,Tyias,Browning
-9,0,Ryan,Schofield
-3,2,Dwight,McNeil
-4,2,Kadeem,Harris
-16,0,Paulo,Gazzaniga
-4,0,Brian,Murphy
-16,0,Alfie,Whiteman
-18,2,Grady,Diangana
-16,2,Oliver,Skipp
-8,1,Zeze Steven,Sessegnon
-0,0,Emiliano,Martinez
-11,3,Divock,Origi
-17,1,Ben,Wilmot
-0,2,Emile,Smith-Rowe
-0,1,Zech,Medley
-18,2,Joe,Powell
-18,2,Conor,Coventry
-16,1,Juan,Foyth
-15,3,Michael,Obafemi
-2,3,Viktor,Gyokeres
-0,3,Edward,Nketiah
-14,0,Frederick,Woodman
-17,3,Adalberto,Penaranda
-19,2,Ryan John,Giles
-15,1,Yan,Valery
-11,2,Rafael,Camacho
-10,1,Josh,Knight
-2,1,Ben,White
-18,3,Alexandre Nascimento,Costa Silva
-16,1,Timothy,Eyoma
-15,2,Tyreke,Johnson
-0,2,Bukayo,Saka
-3,1,Abd-Al-Ali Morakinyo Olaposi,Koiki
-15,1,Kayne,Ramsay
-0,2,Joseph,Willock
-19,1,Max,Kilman
-13,2,Angel,Gomes
-18,2,Samir,Nasri
-15,2,Callum,Slattery
-10,2,Harvey,Barnes
-2,2,Max,Sanders
-4,3,Rhys,Healey
-15,3,Sam,Gallagher
-8,2,Ryan,Babel
-6,0,Joe,Tupper
-14,2,Callum,Roberts
-16,3,Kazaiah,Sterling
-5,3,Gonzalo,Higuain
-1,1,Chris,Mepham
-0,1,Carl,Jenkinson
-2,1,Dan,Burn
-3,2,Josh,Benson
-6,0,Lucas,Perri
-9,3,Karlan,Grant
-0,2,Denis,Suarez
-14,2,Miguel,Almiron
-14,1,Antonio,Barreca
-4,1,Leandro,Bacuna
-3,3,Peter,Crouch
-10,2,Youri,Tielemans
-6,3,Michy,Batshuayi
-8,1,Havard,Nordtveit
-8,2,Lazar,Markovic
-15,1,Alfie,Jones
-19,1,Cameron,John
-11,2,Curtis,Jones
-9,0,Joel,Coleman
-1,3,Sam,Surridge
-1,2,Kyle,Taylor
-9,1,Demeaco,Duhaney
-13,2,James,Garner
-13,2,Tahith,Chong
-12,1,Philippe,Sandler
-18,1,Ben,Johnson
-9,2,Matthew,Daly
-9,2,Aaron,Rowe
-13,3,Mason,Greenwood
-6,1,Sam,Woods
-8,2,Harvey,Elliott
-18,2,Nathan,Holland
-16,2,George,Marsh
-1,2,Nnamdi,Ofoborh
-16,3,Vincent,Janssen
-3,1,Anthony,Driscoll-Glennon
-1,0,Mark,Travers
-2,2,Jayson,Molumby
-6,2,Luke,Dreher
-6,1,Nikola,Tavares
-1,2,Matt,Butcher
-8,2,Luca,De La Torre
-14,2,Kelland,Watts
-14,1,Lewis,Cass
-5,1,Addji Keaninkin Marc-Israel,Guehi
+team,element_type,first_name,second_name,web_name
+0,0,Petr,Cech,Cech
+0,0,Bernd,Leno,Leno
+0,1,Laurent,Koscielny,Koscielny
+0,1,Hector,Bellerin,Bellerin
+0,1,Nacho,Monreal,Monreal
+0,1,Rob,Holding,Holding
+0,1,Shkodran,Mustafi,Mustafi
+0,1,Sead,Kolasinac,Kolasinac
+8,1,Calum,Chambers,Chambers
+0,1,Konstantinos,Mavropanos,Mavropanos
+0,1,Stephan,Lichtsteiner,Lichtsteiner
+0,1,Sokratis,Papastathopoulos,Sokratis
+0,2,Mesut,Ozil,Ozil
+0,2,Aaron,Ramsey,Ramsey
+0,2,Alex,Iwobi,Iwobi
+0,2,Mohamed,Elneny,Elneny
+0,2,Granit,Xhaka,Xhaka
+0,2,Henrikh,Mkhitaryan,Mkhitaryan
+0,2,Reiss,Nelson,Nelson
+0,2,Ainsley,Maitland-Niles,Maitland-Niles
+0,3,Danny,Welbeck,Welbeck
+0,3,Alexandre,Lacazette,Lacazette
+0,3,Pierre-Emerick,Aubameyang,Aubameyang
+1,0,Asmir,Begovic,Begovic
+1,0,Artur,Boruc,Boruc
+1,1,Simon,Francis,Francis
+1,1,Steve,Cook,Steve Cook
+1,1,Charlie,Daniels,Daniels
+1,1,Adam,Smith,Adam Smith
+1,1,Tyrone,Mings,Mings
+1,1,Nathan,Ake,Ake
+1,1,Jack,Simpson,Simpson
+4,2,Harry,Arter,Arter
+1,2,Marc,Pugh,Pugh
+1,2,Andrew,Surman,Surman
+1,2,Junior,Stanislas,Stanislas
+1,2,Dan,Gosling,Gosling
+1,2,Jordon,Ibe,Ibe
+1,2,Lewis,Cook,Lewis Cook
+1,2,Ryan,Fraser,Fraser
+1,2,Emerson,Hyndman,Hyndman
+1,2,David,Brooks,Brooks
+1,3,Callum,Wilson,Wilson
+1,3,Lys,Mousset,Mousset
+1,3,Joshua,King,King
+1,3,Jermain,Defoe,Defoe
+2,0,Mathew,Ryan,Ryan
+2,1,Lewis,Dunk,Dunk
+2,1,Shane,Duffy,Duffy
+2,1,Bruno,Saltor Grau,Bruno
+2,1,Gaetan,Bong,Bong
+2,1,Markus,Suttner,Suttner
+2,1,Ezequiel,Schelotto,Schelotto
+2,1,Leon,Balogun,Balogun
+2,2,Anthony,Knockaert,Knockaert
+2,2,Dale,Stephens,Stephens
+2,2,Beram,Kayal,Kayal
+2,2,Solomon,March,March
+2,2,Pascal,Gro,Gro
+2,2,Davy,Propper,Propper
+2,2,Jose Heriberto,Izquierdo Mena,Izquierdo
+2,3,Glenn,Murray,Murray
+2,3,Tomer,Hemed,Hemed
+2,3,Sam,Baldock,Baldock
+2,3,Jurgen,Locadia,Locadia
+2,3,Florin,Andone,Andone
+3,0,Tom,Heaton,Heaton
+3,0,Nick,Pope,Pope
+3,1,Matthew,Lowton,Lowton
+3,1,Ben,Mee,Mee
+3,1,Stephen,Ward,Ward
+3,1,James,Tarkowski,Tarkowski
+3,1,Kevin,Long,Long
+3,1,Charlie,Taylor,Taylor
+3,1,Phil,Bardsley,Bardsley
+3,2,Johann Berg,Gudmundsson,Gudmundsson
+3,2,Steven,Defour,Defour
+3,2,Jeff,Hendrick,Hendrick
+3,2,Robbie,Brady,Brady
+3,2,Ashley,Westwood,Westwood
+3,2,Jonathan,Walters,Walters
+3,2,Jack,Cork,Cork
+3,2,Aaron,Lennon,Lennon
+3,3,Sam,Vokes,Vokes
+3,3,Ashley,Barnes,Barnes
+3,3,Nahki,Wells,Wells
+3,3,Chris,Wood,Wood
+4,0,Neil,Etheridge,Etheridge
+4,0,Alex,Smithies,Smithies
+4,1,Sean,Morrison,Morrison
+4,1,Sol,Bamba,Bamba
+4,1,Bruno,Ecuele Manga,Ecuele Manga
+4,1,Matthew,Connolly,Connolly
+4,1,Joe,Bennett,Bennett
+4,1,Lee,Peltier,Peltier
+4,1,Ashley Darel Jazz,Richards,Jazz Richards
+4,1,Greg,Halford,Halford
+4,2,Joe,Ralls,Ralls
+4,2,David Junior,Hoilett,Hoilett
+4,2,Nathaniel,Mendez-Laing,Mendez-Laing
+4,2,Callum,Paterson,Paterson
+4,2,Aron,Gunnarsson,Gunnarsson
+4,2,Anthony,Pilkington,Pilkington
+4,2,Loic,Damour,Damour
+4,2,Danny,Ward,Ward
+4,2,Josh,Murphy,Murphy
+4,3,Kenneth,Zohore,Zohore
+4,3,Omar,Bogle,Bogle
+4,3,Gary,Madine,Madine
+4,3,Bobby,Reid,Reid
+5,0,Thibaut,Courtois,Courtois
+5,0,Willy,Caballero,Caballero
+5,1,Cesar,Azpilicueta,Azpilicueta
+5,1,Gary,Cahill,Cahill
+5,1,Marcos,Alonso,Alonso
+5,1,David,Luiz Moreira Marinho,David Luiz
+5,1,Victor,Moses,Moses
+5,1,Antonio,Rudiger,Rudiger
+5,1,Andreas,Christensen,Christensen
+5,1,Davide,Zappacosta,Zappacosta
+5,1,Emerson,Palmieri dos Santos,Emerson
+5,2,Eden,Hazard,Hazard
+5,2,Cesc,Fabregas,Fabregas
+5,2,Willian,Borges Da Silva,Willian
+5,2,Pedro,Rodriguez Ledesma,Pedro
+5,2,N'Golo,Kante,Kante
+5,2,Ross,Barkley,Barkley
+5,2,Daniel,Drinkwater,Drinkwater
+5,2,Tiemoue,Bakayoko,Bakayoko
+5,2,Ethan,Ampadu,Ampadu
+5,2,Callum,Hudson-Odoi,Hudson-Odoi
+5,2,Ruben,Loftus-Cheek,Loftus-Cheek
+5,3,Olivier,Giroud,Giroud
+5,3,Alvaro,Morata,Morata
+6,0,Wayne,Hennessey,Hennessey
+6,0,Julian,Speroni,Speroni
+6,0,Vicente,Guaita,Guaita
+6,1,James,Tomkins,Tomkins
+6,1,Scott,Dann,Dann
+6,1,Martin,Kelly,Kelly
+6,1,Jeffrey,Schlupp,Schlupp
+6,1,Patrick,van Aanholt,van Aanholt
+6,1,Mamadou,Sakho,Sakho
+6,1,Jairo,Riedewald,Riedewald
+6,1,Aaron,Wan-Bissaka,Wan-Bissaka
+9,2,Jason,Puncheon,Puncheon
+6,2,James,McArthur,McArthur
+6,2,Bakary,Sako,Sako
+6,2,Andros,Townsend,Townsend
+6,2,Luka,Milivojevic,Milivojevic
+6,3,Wilfried,Zaha,Zaha
+6,3,Christian,Benteke,Benteke
+6,3,Alexander,Srloth,Srloth
+7,0,Jordan,Pickford,Pickford
+7,0,Maarten,Stekelenburg,Stekelenburg
+7,1,Leighton,Baines,Baines
+7,1,Seamus,Coleman,Coleman
+7,1,Phil,Jagielka,Jagielka
+7,1,Ashley,Williams,Williams
+7,1,Mason,Holgate,Holgate
+7,1,Jonjoe,Kenny,Kenny
+7,1,Michael,Keane,Keane
+7,1,Cuco,Martina,Martina
+7,2,Theo,Walcott,Walcott
+7,2,Yannick,Bolasie,Bolasie
+7,2,James,McCarthy,McCarthy
+7,2,Morgan,Schneiderlin,Schneiderlin
+7,2,Idrissa,Gueye,Gueye
+7,2,Tom,Davies,Davies
+7,2,Ademola,Lookman,Lookman
+7,2,Davy,Klaassen,Klaassen
+7,2,Gylfi,Sigurdsson,Sigurdsson
+7,2,Nikola,Vlasic,Vlasic
+7,2,Beni,Baningime,Baningime
+7,3,Dominic,Calvert-Lewin,Calvert-Lewin
+4,3,Oumar,Niasse,Niasse
+7,3,Cenk,Tosun,Tosun
+8,0,Marcus,Bettinelli,Bettinelli
+2,0,David,Button,Button
+8,1,Tim,Ream,Ream
+8,1,Denis,Odoi,Odoi
+8,2,Tom,Cairney,Cairney
+8,2,Kevin,McDonald,McDonald
+8,2,Ryan,Sessegnon,Sessegnon
+8,2,Stefan,Johansen,Johansen
+8,2,Floyd,Ayite,Ayite
+8,2,Neeskens,Kebano,Kebano
+8,2,Rui Pedro,da Rocha Fonte,Fonte
+8,3,Aboubakar,Kamara,Kamara
+9,0,Ben,Hamer,Hamer
+9,0,Jonas,Lossl,Lossl
+9,1,Christopher,Schindler,Schindler
+9,1,Chris,Lowe,Lowe
+9,1,Tommy,Smith,Smith
+9,1,Mathias,Jorgensen,Zanka
+9,1,Scott,Malone,Malone
+9,1,Florent,Hadergjonaj,Hadergjonaj
+9,1,Terence,Kongolo,Kongolo
+9,2,Aaron,Mooy,Mooy
+9,2,Rajiv,van La Parra,van La Parra
+9,2,Jonathan,Hogg,Hogg
+9,2,Philip,Billing,Billing
+9,2,Tom,Ince,Ince
+9,2,Danny,Williams,Williams
+9,2,Abdelhamid,Sabiri,Sabiri
+9,2,Alex,Pritchard,Pritchard
+9,2,Ramadan,Sobhi,Sobhi
+9,2,Juninho,Bacuna,Bacuna
+9,3,Collin,Quaner,Quaner
+9,3,Laurent,Depoitre,Depoitre
+9,3,Steve,Mounie,Mounie
+9,3,Elias,Kachunga,Kachunga
+10,0,Kasper,Schmeichel,Schmeichel
+10,0,Eldin,Jakupovic,Jakupovic
+10,1,Wes,Morgan,Morgan
+10,1,Christian,Fuchs,Fuchs
+10,1,Danny,Simpson,Simpson
+10,1,Yohan,Benalouane,Benalouane
+10,1,Benjamin,Chilwell,Chilwell
+10,1,Harry,Maguire,Maguire
+10,1,Ricardo Domingos,Barbosa Pereira,Pereira
+10,1,Jonny,Evans,Evans
+12,2,Riyad,Mahrez,Mahrez
+10,2,Marc,Albrighton,Albrighton
+10,2,Demarai,Gray,Gray
+10,2,Daniel,Amartey,Amartey
+10,2,Wilfred,Ndidi,Ndidi
+10,2,Vicente,Iborra,Iborra
+10,2,Matty,James,James
+10,2,Hamza,Choudhury,Choudhury
+10,2,Adrien Sebastian,Perruchet Silva,Silva
+10,2,Fousseni,Diabate,Diabate
+10,2,James,Maddison,Maddison
+10,3,Jamie,Vardy,Vardy
+10,3,Shinji,Okazaki,Okazaki
+10,3,Kelechi,Iheanacho,Iheanacho
+11,0,Simon,Mignolet,Mignolet
+11,0,Loris,Karius,Karius
+11,1,Dejan,Lovren,Lovren
+11,1,Alberto,Moreno,Moreno
+1,1,Nathaniel,Clyne,Clyne
+11,1,Joseph,Gomez,Gomez
+11,1,Joel,Matip,Matip
+11,1,Ragnar,Klavan,Klavan
+11,1,Trent,Alexander-Arnold,Alexander-Arnold
+11,1,Virgil,van Dijk,van Dijk
+11,1,Andrew,Robertson,Robertson
+11,2,Alex,Oxlade-Chamberlain,Chamberlain
+11,2,Jordan,Henderson,Henderson
+11,2,Adam,Lallana,Lallana
+11,2,Sadio,Mane,Mane
+11,2,Georginio,Wijnaldum,Wijnaldum
+11,2,Mohamed,Salah,Salah
+11,2,James,Milner,Milner
+11,2,Fabio Henrique,Tavares,Fabinho
+11,2,Naby,Keita,Keita
+11,3,Roberto,Firmino,Firmino
+15,3,Danny,Ings,Ings
+1,3,Dominic,Solanke,Solanke
+12,0,Ederson,Santana de Moraes,Ederson
+12,0,Claudio,Bravo,Bravo
+12,1,John,Stones,Stones
+12,1,Vincent,Kompany,Kompany
+12,1,Nicolas,Otamendi,Otamendi
+12,1,Kyle,Walker,Walker
+12,1,Danilo Luiz,da Silva,Danilo
+12,1,Benjamin,Mendy,Mendy
+12,1,Aymeric,Laporte,Laporte
+12,1,Fabian,Delph,Delph
+12,2,Raheem,Sterling,Sterling
+12,2,David,Silva,David Silva
+12,2,Fernando,Luiz Rosa,Fernandinho
+12,2,Kevin,De Bruyne,De Bruyne
+12,2,Ilkay,Gundogan,Gundogan
+12,2,Leroy,Sane,Sane
+12,2,Bernardo Mota,Veiga de Carvalho e Silva,Bernardo Silva
+12,2,Phil,Foden,Foden
+12,2,Brahim,Diaz,Diaz
+12,2,Oleksandr,Zinchenko,Zinchenko
+12,3,Sergio,Aguero,Aguero
+12,3,Gabriel Fernando,de Jesus,Jesus
+13,0,David,de Gea,de Gea
+13,0,Sergio,Romero,Romero
+13,1,Chris,Smalling,Smalling
+13,1,Phil,Jones,Jones
+13,1,Luke,Shaw,Shaw
+13,1,Marcos,Rojo,Rojo
+13,1,Antonio,Valencia,Valencia
+13,1,Matteo,Darmian,Darmian
+13,1,Daley,Blind,Blind
+13,1,Eric,Bailly,Bailly
+13,1,Victor,Lindelof,Lindelof
+13,1,Ashley,Young,Young
+13,1,Jose Diogo,Dalot Teixeira,Dalot
+13,2,Alexis,Sanchez,Sanchez
+13,2,Nemanja,Matic,Matic
+13,2,Juan,Mata,Mata
+13,2,Marouane,Fellaini,Fellaini
+13,2,Ander,Herrera,Herrera
+13,2,Jesse,Lingard,Lingard
+13,2,Anthony,Martial,Martial
+13,2,Paul,Pogba,Pogba
+13,2,Scott,McTominay,McTominay
+13,2,Frederico,Rodrigues de Paula Santos,Fred
+13,3,Marcus,Rashford,Rashford
+13,3,Romelu,Lukaku,Lukaku
+14,0,Robert,Elliot,Elliot
+14,0,Karl,Darlow,Darlow
+14,0,Martin,Dubravka,Dubravka
+14,1,DeAndre,Yedlin,Yedlin
+14,1,Ciaran,Clark,Clark
+14,1,Jamaal,Lascelles,Lascelles
+14,1,Paul,Dummett,Dummett
+14,1,Florian,Lejeune,Lejeune
+14,1,Javier,Manquillo,Manquillo
+14,1,Chancel,Mbemba,Mbemba
+14,2,Matt,Ritchie,Ritchie
+14,2,Jonjo,Shelvey,Shelvey
+14,2,Mohamed,Diame,Diame
+14,2,Christian,Atsu,Atsu
+14,2,Jacob,Murphy,Murphy
+14,2,Mikel,Merino,Merino
+14,2,Isaac,Hayden,Hayden
+14,2,Sung-yueng,Ki,Ki Sung-yueng
+14,3,Dwight,Gayle,Gayle
+14,3,Ayoze,Perez,Perez
+14,3,Jose Luis,Mato Sanmartin,Joselu
+15,0,Alex,McCarthy,McCarthy
+15,0,Fraser,Forster,Forster
+15,1,Ryan,Bertrand,Bertrand
+15,1,Maya,Yoshida,Yoshida
+15,1,Cedric,Soares,Cedric
+15,1,Jack,Stephens,Stephens
+15,1,Sam,McQueen,McQueen
+15,1,Jan,Bednarek,Bednarek
+15,1,Wesley,Hoedt,Hoedt
+15,2,Steven,Davis,Davis
+15,2,James,Ward-Prowse,Ward-Prowse
+15,2,Oriol,Romeu Vidal,Oriol Romeu
+15,2,Pierre-Emile,Hjbjerg,Hjbjerg
+15,2,Sofiane,Boufal,Boufal
+15,2,Joshua,Sims,Sims
+15,2,Nathan,Redmond,Redmond
+15,2,Mario,Lemina,Lemina
+15,2,Stuart,Armstrong,Armstrong
+15,2,Mohamed,Elyounoussi,Elyounoussi
+15,3,Shane,Long,Long
+15,3,Charlie,Austin,Austin
+15,3,Manolo,Gabbiadini,Gabbiadini
+15,3,Guido,Carrillo,Carrillo
+16,0,Hugo,Lloris,Lloris
+16,0,Michel,Vorm,Vorm
+16,1,Toby,Alderweireld,Alderweireld
+16,1,Danny,Rose,Rose
+16,1,Jan,Vertonghen,Vertonghen
+16,1,Ben,Davies,Davies
+16,1,Kieran,Trippier,Trippier
+16,1,Kyle,Walker-Peters,Walker-Peters
+16,1,Davinson,Sanchez,Sanchez
+16,1,Serge,Aurier,Aurier
+16,2,Eric,Dier,Dier
+16,2,Mousa,Dembele,Dembele
+16,2,Erik,Lamela,Lamela
+16,2,Christian,Eriksen,Eriksen
+16,2,Bamidele,Alli,Alli
+16,2,Victor,Wanyama,Wanyama
+16,2,Heung-Min,Son,Son
+16,2,Harry,Winks,Winks
+16,2,Moussa,Sissoko,Sissoko
+16,2,Lucas,Rodrigues Moura da Silva,Lucas Moura
+16,3,Fernando,Llorente,Llorente
+16,3,Harry,Kane,Kane
+17,0,Heurelho,Gomes,Gomes
+17,0,Pontus,Dahlberg,Dahlberg
+17,1,Younes,Kaboul,Kaboul
+17,1,Craig,Cathcart,Cathcart
+17,1,Sebastian,Prodl,Prodl
+17,1,Jose,Holebas,Holebas
+17,1,Miguel,Britos,Britos
+17,1,Christian,Kabasele,Kabasele
+17,1,Daryl,Janmaat,Janmaat
+17,1,Adrian,Mariappa,Mariappa
+17,1,Francisco,Femenia Far,Kiko Femenia
+17,1,Marvin,Zeegelaar,Zeegelaar
+17,1,Marc,Navarro,Navarro
+17,1,Adam,Masina,Masina
+17,2,Nathaniel,Chalobah,Chalobah
+17,2,Tom,Cleverley,Cleverley
+17,2,Etienne,Capoue,Capoue
+17,2,Abdoulaye,Doucoure,Doucoure
+17,2,Roberto,Pereyra,Pereyra
+17,2,Will,Hughes,Hughes
+7,2,Richarlison,de Andrade,Richarlison
+17,2,Gerard,Deulofeu,Deulofeu
+17,3,Andre,Gray,Gray
+17,3,Troy,Deeney,Deeney
+17,3,Stefano,Okaka,Okaka
+17,3,Jerome,Sinclair,Sinclair
+18,0,Adrian,San Miguel del Castillo,Adrian
+18,0,Lukasz,Fabianski,Fabianski
+18,1,Winston,Reid,Reid
+18,1,Aaron,Cresswell,Cresswell
+18,1,Angelo,Ogbonna,Ogbonna
+18,1,Sam,Byram,Byram
+18,1,Pablo,Zabaleta,Zabaleta
+18,1,Declan,Rice,Rice
+18,1,Reece,Oxford,Oxford
+18,1,Ryan,Fredericks,Fredericks
+18,1,Issa,Diop,Diop
+18,2,Arthur,Masuaku,Masuaku
+18,2,Mark,Noble,Noble
+6,2,Cheikhou,Kouyate,Kouyate
+18,2,Pedro,Obiang,Obiang
+18,2,Manuel,Lanzini,Lanzini
+18,2,Michail,Antonio,Antonio
+18,2,Edimilson,Fernandes,Fernandes
+18,3,Marko,Arnautovic,Arnautovic
+18,3,Andy,Carroll,Carroll
+18,3,Javier,Hernandez Balcazar,Chicharito
+18,3,Jordan,Hugill,Hugill
+19,0,John,Ruddy,Ruddy
+19,0,Will,Norris,Norris
+19,1,Willy,Boly,Boly
+19,1,Barry,Douglas,Douglas
+19,1,Matt,Doherty,Doherty
+19,1,Romain,Saiss,Saiss
+19,1,Ryan,Bennett,Bennett
+19,1,Danny,Batth,Batth
+19,1,Roderick Jefferson,Goncalves Miranda,Miranda
+19,1,Conor,Coady,Coady
+19,1,Ruben Goncalo,Silva Nascimento Vinagre,Vinagre
+19,2,Diogo,Jota,Jota
+19,2,Ruben Diogo,da Silva Neves,Neves
+19,2,Ivan,Cavaleiro,Cavaleiro
+19,2,Helder,Costa,Costa
+19,2,Bright,Enobakhare,Enobakhare
+19,3,Raul,Jimenez,Jimenez
+19,3,Bonatini Lohner Maia,Bonatini,Bonatini
+2,0,Jason,Steele,Steele
+2,1,Bernardo,Fernandes da Silva Junior,Bernardo
+6,1,Joel,Ward,Ward
+6,1,Jaroslaw,Jach,Jach
+6,1,Pape,Souare,Souare
+6,3,Connor,Wickham,Wickham
+17,0,Ben,Foster,Foster
+17,2,Ken,Sema,Sema
+18,2,Jack,Wilshere,Wilshere
+19,2,Morgan,Gibbs-White,Gibbs-White
+19,3,Rafa,Mir,Mir
+0,2,Lucas,Torreira,Torreira
+0,2,Matteo,Guendouzi,Guendouzi
+15,0,Angus,Gunn,Gunn
+18,2,Andriy,Yarmolenko,Yarmolenko
+19,0,Rui Pedro,dos Santos Patricio,Patricio
+8,1,Maxime,Le Marchand,Le Marchand
+8,2,Jean Michael,Seri,Seri
+10,0,Danny,Ward,Ward
+14,2,Robert Kenedy,Nunes do Nascimento,Kenedy
+5,2,Jorge Luiz,Frello Filho,Jorginho
+8,1,Cyrus,Christie,Christie
+9,1,Erik,Durm,Durm
+11,2,Xherdan,Shaqiri,Shaqiri
+15,1,Jannik,Vestergaard,Vestergaard
+18,1,Fabian,Balbuena,Balbuena
+18,2,Felipe Anderson,Pereira Gomes,Felipe Anderson
+2,2,Yves,Bissouma,Bissouma
+4,1,Greg,Cunninghamm,Cunningham
+11,0,Alisson,Ramses Becker,Alisson
+7,2,Kevin,Mirallas,Mirallas
+7,3,Sandro,Ramirez,Sandro
+9,2,Adama,Diakhaby,Diakhaby
+11,3,Daniel,Sturridge,Sturridge
+1,1,Diego,Rico,Rico
+8,0,Fabricio,Agosto Ramirez,Fabri
+19,2,Joao Filipe Iria,Santos Moutinho,Moutinho
+2,2,Alireza,Jahanbakhsh,Jahanbakhsh
+6,2,Sullay,Kaikai,Kaikai
+8,2,Andre,Schurrle,Schurrle
+15,1,Matt,Targett,Targett
+8,3,Aleksandar,Mitrovic,Mitrovic
+13,2,Andreas,Pereira,Pereira
+14,1,Fabian,Schar,Schar
+19,1,Jonathan,Castro Otto,Jonny
+7,1,Lucas,Digne,Digne
+3,0,Anders,Lindegaard,Lindegaard
+6,2,Max,Meyer,Meyer
+8,1,Alfie,Mawson,Mawson
+14,3,Yoshinori,Muto,Muto
+18,2,Robert,Snodgrass,Snodgrass
+3,0,Joe,Hart,Hart
+3,1,Ben,Gibson,Gibson
+10,2,Rachid,Ghezzal,Ghezzal
+14,3,Salomon,Rondon,Rondon
+1,2,Jefferson,Lerma,Lerma
+3,3,Matej,Vydra,Vydra
+5,3,Tammy,Abraham,Abraham
+16,2,Georges-Kevin,Nkoudou,Nkoudou
+5,0,Kepa,Arrizabalaga,Kepa
+5,2,Mateo,Kovacic,Kovacic
+19,2,Adama,Traore,Traore
+10,1,Filip,Benkovic,Benkovic
+18,3,Lucas,Perez,Lucas
+2,1,Martin,Montoya,Montoya
+4,2,Victor,Camarasa,Camarasa
+6,3,Jordan,Ayew,Ayew
+7,1,Yerry,Mina,Mina
+7,2,Bernard,Anicio Caldeira Duarte,Bernard
+7,2,Andre Filipe,Tavares Gomes,Andre Gomes
+8,0,Sergio,Rico,Rico
+8,1,Joe,Bryan,Bryan
+8,1,Timothy,Fosu-Mensah,Fosu-Mensah
+8,2,Andre-Frank,Zambo Anguissa,Zambo Anguissa
+8,3,Luciano,Vietto,Vietto
+9,2,Isaac,Mbenza,Mbenza
+10,1,Caglar,Soyuncu,Soyuncu
+14,1,Federico,Fernandez,Fernandez
+17,2,Domingos,Quina,Quina
+18,2,Carlos,Sanchez,Carlos Sanchez
+19,2,Leander,Dendoncker,Dendoncker
+13,0,Lee,Grant,Grant
+8,2,Ibrahima,Cisse,Cisse
+9,1,Jon Gorenc,Stankovic,Stankovic
+16,2,Luke,Amos,Amos
+17,3,Isaac,Success Ajayi,Success
+19,1,Kortney,Hause,Hause
+7,1,Kurt,Zouma,Zouma
+10,2,Nampalys,Mendy,Mendy
+7,2,Kieran,Dowell,Dowell
+12,0,Arijanet,Muric,Muric
+14,1,Jamie,Sterry,Sterry
+14,2,Sean,Longstaff,Longstaff
+7,1,Tyias,Browning,Browning
+9,0,Ryan,Schofield,Schofield
+3,2,Dwight,McNeil,McNeil
+4,2,Kadeem,Harris,Harris
+16,0,Paulo,Gazzaniga,Gazzaniga
+4,0,Brian,Murphy,Brian Murphy
+16,0,Alfie,Whiteman,Whiteman
+18,2,Grady,Diangana,Diangana
+16,2,Oliver,Skipp,Skipp
+8,1,Zeze Steven,Sessegnon,Steven Sessegnon
+0,0,Emiliano,Martinez,Martinez
+11,3,Divock,Origi,Origi
+17,1,Ben,Wilmot,Wilmot
+0,2,Emile,Smith-Rowe,Smith-Rowe
+0,1,Zech,Medley,Medley
+18,2,Joe,Powell,Powell
+18,2,Conor,Coventry,Coventry
+16,1,Juan,Foyth,Foyth
+15,3,Michael,Obafemi,Obafemi
+2,3,Viktor,Gyokeres,Gyokeres
+0,3,Edward,Nketiah,Nketiah
+14,0,Frederick,Woodman,Woodman
+17,3,Adalberto,Penaranda,Penaranda
+19,2,Ryan John,Giles,Giles
+15,1,Yan,Valery,Valery
+11,2,Rafael,Camacho,Camacho
+10,1,Josh,Knight,Knight
+2,1,Ben,White,White
+18,3,Alexandre Nascimento,Costa Silva,Xande Silva
+16,1,Timothy,Eyoma,Eyoma
+15,2,Tyreke,Johnson,Johnson
+0,2,Bukayo,Saka,Saka
+3,1,Abd-Al-Ali Morakinyo Olaposi,Koiki,Koiki
+15,1,Kayne,Ramsay,Ramsay
+0,2,Joseph,Willock,Willock
+19,1,Max,Kilman,Kilman
+13,2,Angel,Gomes,Gomes
+18,2,Samir,Nasri,Nasri
+15,2,Callum,Slattery,Slattery
+10,2,Harvey,Barnes,Barnes
+2,2,Max,Sanders,Sanders
+4,3,Rhys,Healey,Healey
+15,3,Sam,Gallagher,Gallagher
+8,2,Ryan,Babel,Babel
+6,0,Joe,Tupper,Tupper
+14,2,Callum,Roberts,Roberts
+16,3,Kazaiah,Sterling,Sterling
+5,3,Gonzalo,Higuain,Higuain
+1,1,Chris,Mepham,Mepham
+0,1,Carl,Jenkinson,Jenkinson
+2,1,Dan,Burn,Burn
+3,2,Josh,Benson,Benson
+6,0,Lucas,Perri,Perri
+9,3,Karlan,Grant,Grant
+0,2,Denis,Suarez,Suarez
+14,2,Miguel,Almiron,Almiron
+14,1,Antonio,Barreca,Barreca
+4,1,Leandro,Bacuna,Bacuna
+3,3,Peter,Crouch,Crouch
+10,2,Youri,Tielemans,Tielemans
+6,3,Michy,Batshuayi,Batshuayi
+8,1,Havard,Nordtveit,Nordtveit
+8,2,Lazar,Markovic,Markovic
+15,1,Alfie,Jones,Jones
+19,1,Cameron,John,John
+11,2,Curtis,Jones,Jones
+9,0,Joel,Coleman,Coleman
+1,3,Sam,Surridge,Surridge
+1,2,Kyle,Taylor,Taylor
+9,1,Demeaco,Duhaney,Duhaney
+13,2,James,Garner,Garner
+13,2,Tahith,Chong,Chong
+12,1,Philippe,Sandler,Sandler
+18,1,Ben,Johnson,Johnson
+9,2,Matthew,Daly,Daly
+9,2,Aaron,Rowe,Rowe
+13,3,Mason,Greenwood,Greenwood
+6,1,Sam,Woods,Woods
+8,2,Harvey,Elliott,Elliott
+18,2,Nathan,Holland,Holland
+16,2,George,Marsh,Marsh
+1,2,Nnamdi,Ofoborh,Ofoborh
+16,3,Vincent,Janssen,Janssen
+3,1,Anthony,Driscoll-Glennon,Driscoll-Glennon
+1,0,Mark,Travers,Travers
+2,2,Jayson,Molumby,Molumby
+6,2,Luke,Dreher,Dreher
+6,1,Nikola,Tavares,Tavares
+1,2,Matt,Butcher,Butcher
+8,2,Luca,De La Torre,De La Torre
+14,2,Kelland,Watts,Watts
+14,1,Lewis,Cass,Cass
+5,1,Addji Keaninkin Marc-Israel,Guehi,Guehi
